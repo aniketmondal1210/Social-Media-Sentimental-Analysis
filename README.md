@@ -49,7 +49,7 @@ The application provides a user-friendly interface to input text and receive rea
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/srijanghosh05/Sentiment_analysis_social_media.git
+git clone https://github.com/aniketmondal1210/Sentiment_analysis_social_media.git
 cd Sentiment_analysis_social_media
 ```
 
