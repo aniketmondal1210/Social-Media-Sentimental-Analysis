@@ -1,0 +1,15 @@
+--- Class Balance ---
+Sentiment Label
+Positive    0.339000
+Negative    0.335333
+Neutral     0.325667
+Name: proportion, dtype: float64
+
+--- Overfitting Check ---
+Model                     | Train Acc  | Test Acc  
+--------------------------------------------------
+model_lr.pkl              | 0.9908     | 0.9867
+model_rf.pkl              | 0.9912     | 0.9833
+model_svm.pkl             | 0.9888     | 0.9867
+model_nb.pkl              | 0.9904     | 0.9850
+model_gb.pkl              | 0.9862     | 0.9800
