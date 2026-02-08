@@ -1,4 +1,4 @@
-# Sentiment Analysis Social Media
+# Social Media Sentimental Analysis
 
 ## 📌 Project Description
 This project is a **Social Media Sentiment Analysis** application built with Python and Streamlit. It uses Machine Learning models to classify social media posts into three sentiment categories:
